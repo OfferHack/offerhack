@@ -1,3 +1,3 @@
 # OfferHack
 
-Desktop app for OfferHack.
+Desktop app.
